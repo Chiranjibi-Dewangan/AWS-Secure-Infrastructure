@@ -1,0 +1,18 @@
+aws-secure-infrastructure/
+├── README.md                     # Your portfolio front door
+├── docs/
+│   ├── architecture.md           # Design decisions
+│   ├── security-implementation.md
+│   ├── deployment-steps.md       # Detailed build log
+│   └── lessons-learned.md        # Gold for recruiters
+├── diagrams/
+│   └── architecture.png          # Visual is MANDATORY
+├── screenshots/
+│   ├── vpc/
+│   ├── ec2/
+│   ├── iam/
+│   └── s3/
+├── scripts/
+│   └── user-data.sh              # Automation evidence
+└── s3-website/
+    └── index.html                # Landing page
